@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/b75d71ce-4bda-432c-89d9-964caccbba65.svg)](https://wakatime.com/@b75d71ce-4bda-432c-89d9-964caccbba65)
+[![github](https://img.shields.io/github/followers/lordcobcob?logo=github&style=plastic)](https://github.com/alanhamlett?tab=followers)
+
+- 🔭 I’m currently working on https://discord.gg/5f5Dg2m8Nv
+- 💬 Ask me about Python, Javascript
 <!--
-**Lordcobcob/Lordcobcob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alanhamlett/alanhamlett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
